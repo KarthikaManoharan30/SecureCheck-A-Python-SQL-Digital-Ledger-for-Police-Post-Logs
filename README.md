@@ -97,12 +97,14 @@ streamlit run Miniproj.py
 
 📊 Run queries on the fly to support investigations
 
-📁 Deliverables
-✅ Python Script (Miniproj.py)
 
-✅ SQL Query Logic
+🗂️ Folder Structure
+SecureCheck/
+│
+├── Miniproj.py             # Main Streamlit dashboard
+├── README.md               # You're here
+├── requirements.txt        # Python dependencies
 
-✅ Streamlit UI Dashboard
 
-✅ This README file
+
 
