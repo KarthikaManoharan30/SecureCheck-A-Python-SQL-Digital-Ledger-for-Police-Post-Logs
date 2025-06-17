@@ -25,7 +25,7 @@ It transforms manual police logs into **real-time insights**, enabling smarter, 
 
 | Field               | Example        | Description                         |
 |--------------------|----------------|-------------------------------------|
-| `driver_age`       | 27             | Cleaned driver age                  |
+| `driver_age`       | 27             | Driver age                  |
 | `driver_gender`    | M / F          | Gender of the driver                |
 | `violation`        | Speeding / DUI | Reason for the stop                 |
 | `stop_outcome`     | Warning / Arrest | Final result of the stop          |
