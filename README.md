@@ -1,4 +1,4 @@
-# 🚨 SecureCheck: Digital Policing, Reimagined  
+# 🚨 SecureCheck: A Python-SQL Digital Ledger for Police Post Logs 👮‍♀️ 
 📊 *An intelligent police check post monitoring system using Python, SQL, and Streamlit*
 
 ---
